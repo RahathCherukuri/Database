@@ -33,7 +33,7 @@
 -(int)CountOfRowsInTable;
 
 //lets u delete the database.
--(void)deleteData:(NSString *) time_stamp;
+-(void)deleteData:(NSString *) username;
 
 //lets u close the database.
 -(void)CloseDatabase;
